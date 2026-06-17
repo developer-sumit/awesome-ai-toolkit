@@ -506,6 +506,7 @@ We welcome contributions from the community to help maintain and expand this too
 | [CodeRabbit](https://coderabbit.ai/)                  | AI-powered code review         | Code quality improvement               | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow)       |
 | [Pagerly](https://www.pagerly.io)                     | AI operations assistant        | Oncall support and debugging           | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow)       |
 | [Hexabot](https://hexabot.ai)                         | No-Code AI chatbot builder     | Multi-lingual, multi-channel AI agents | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen) |
+| [Future AGI](https://github.com/future-agi/future-agi) | LLM & agent eval and observability platform | Agent simulation, 70+ evals, tracing, guardrails | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen) |
 
 ### 📊 Productivity Tools
 
