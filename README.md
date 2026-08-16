@@ -541,6 +541,7 @@ We welcome contributions from the community to help maintain and expand this too
 | ---------------------------------------------- | ------------------------------------ | -------------------------- | ---------------------------------------------------------------------- |
 | [Taranify](https://www.taranify.com)           | AI-powered content recommender       | Mood-based recommendations | ![Free](https://img.shields.io/badge/Free-Available-brightgreen)       |
 | [AI Dungeon](https://aidungeon.io/)            | AI-driven text adventure game        | Interactive storytelling   | ![Free Tier](https://img.shields.io/badge/Free%20Tier-Available-green) |
+| [Auferet](https://auferet.com/) | AI game master for solo text adventures and tabletop RPGs | Interactive storytelling with persistent memory and lore upload | ![Free Tier](https://img.shields.io/badge/Free%20Tier-Available-green) |
 | [Aispect](https://aispect.io/)                 | AI event experience enhancer         | Event augmentation         | ![Pricing](https://img.shields.io/badge/Pricing-Varies-yellow)         |
 | [FairyTailAI](https://fairytailai.com/)        | Personalized bedtime story generator | Custom story creation      | ![Pricing](https://img.shields.io/badge/Pricing-Varies-yellow)         |
 | [AI Wedding Toast](https://aiweddingtoast.com) | AI wedding speech generator          | Personalized speeches      | ![Pricing](https://img.shields.io/badge/Pricing-Varies-yellow)         |
