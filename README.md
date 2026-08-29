@@ -487,6 +487,7 @@ We welcome contributions from the community to help maintain and expand this too
 
 | Service                                               | Description                    | Features                               | Pricing                                                              |
 | ----------------------------------------------------- | ------------------------------ | -------------------------------------- | -------------------------------------------------------------------- |
+| [Agent QA](https://github.com/vostride/agent-qa)      | AI agent evaluation framework  | Web, terminal, desktop, deterministic checks, optional LLM judging | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow) (no software fee for permitted use; configured providers may charge) |
 | [co:here](https://cohere.ai/)                         | Advanced LLM and NLP tools     | Language model access, NLP tools       | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow)       |
 | [Haystack](https://haystack.deepset.ai/)              | NLP application framework      | LLM-powered app development            | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen) |
 | [Keploy](https://keploy.io/)                          | Traffic to test case converter | Automated testing tool                 | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen) |
