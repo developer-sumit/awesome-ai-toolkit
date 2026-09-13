@@ -482,6 +482,7 @@ We welcome contributions from the community to help maintain and expand this too
 | [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)         | AI-powered code security             | Developer productivity enhancement     | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen)                                                             |
 | [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) | Linux kernel code explorer           | AI-generated code summaries            | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen)                                                             |
 | [WhoDB](https://github.com/clidey/whodb)                               | AI-powered database explorer         | Multi-database support, AI chat        | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen)                                                             |
+| [YYLO](https://github.com/yylo-dev/yylo) | AI coding agent orchestrator | Terminal-native task ledger, validation, merge pipeline | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen) |
 
 ### 🛠️ AI Developer Tools
 
