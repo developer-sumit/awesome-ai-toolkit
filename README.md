@@ -484,6 +484,7 @@ We welcome contributions from the community to help maintain and expand this too
 | [WhoDB](https://github.com/clidey/whodb)                               | AI-powered database explorer         | Multi-database support, AI chat        | ![Free](https://img.shields.io/badge/Free-Open%20Source-brightgreen)                                                             |
 
 ### 🛠️ AI Developer Tools
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 | Service                                               | Description                    | Features                               | Pricing                                                              |
 | ----------------------------------------------------- | ------------------------------ | -------------------------------------- | -------------------------------------------------------------------- |
