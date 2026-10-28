@@ -330,6 +330,7 @@ We welcome contributions from the community to help maintain and expand this too
 | [MyVocal.ai](https://www.myvocal.ai/) 🗨️   | Personalized AI voice cloning                  | Custom voice creation                            | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow)                                                                    |
 | [Speechify](https://speechify.com/) 📢     | Text-to-speech with voice cloning capabilities | Text-to-speech, voice cloning                    | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow)                                                                    |
 | [Resemble AI](https://www.resemble.ai/) 🎤 | AI voice cloning and synthesis                 | Custom voice creation, emotion control           | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow)                                                                    |
+| [Tera Studio](https://terastudio.co/) 🎤 | AI singing voice cloning for song covers | Learns your voice from about a minute of singing, sings any uploaded song in your voice, any language | ![Free tier](https://img.shields.io/badge/Free%20tier-Available-green) |
 
 ### 🎵 Music and Audio Creation
 
