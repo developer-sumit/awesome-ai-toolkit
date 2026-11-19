@@ -524,6 +524,7 @@ We welcome contributions from the community to help maintain and expand this too
 | [Emilio](https://getemil.io)                                                               | AI email manager             | Email prioritization and automation         | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow)                                                                   |
 | [Pieces](https://pieces.app/)                                                              | AI-enhanced developer tool   | Code snippet management, collaboration      | ![Free Tier](https://img.shields.io/badge/Free%20Tier-Available-green) ![Paid](https://img.shields.io/badge/Paid-Available-blue) |
 | [Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/)                     | AI-powered resume creator    | ATS-friendly resume generation              | ![Pricing](https://img.shields.io/badge/Pricing-Custom-yellow)                                                                   |
+| [Glasp](https://glasp.co/) | AI web and PDF highlighter | Highlights, notes and AI summaries | ![Free Tier](https://img.shields.io/badge/Free%20Tier-Available-green) ![Paid](https://img.shields.io/badge/Paid-Available-blue) |
 
 ### 🎨 Creative Tools
 
